@@ -47,12 +47,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://bio.link/priyanshu_developer"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mmckojsty/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mmckojsty@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/priyanshu.me"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/Priyans44231860"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/20466498/priyanshu-singh"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+<a href="https://bio.link/priyanshu_developer"><img src="https://img.shields.io/badge/-Piyanshu%Links-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mmckojsty/"><img src="https://img.shields.io/badge/-Priaynshu%Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mmckojsty@gmail.com"><img src="https://img.shields.io/badge/-mmckojsty@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/priyanshu.me"><img src="https://img.shields.io/badge/-@priyanshu.me-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/Priyans44231860"><img src="https://img.shields.io/badge/-@priyanshu-1877F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/20466498/priyanshu-singh"><img src="https://img.shields.io/badge/-priyanshu-singh-1769FF?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
 </p>
 
 
