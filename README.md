@@ -56,3 +56,5 @@
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=priyanshu-singh-veer.priyanshu-singh-veer)
+
